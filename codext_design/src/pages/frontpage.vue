@@ -139,16 +139,139 @@
         <div class="content-5">
             <div class="heading3">
                 <h1 style="font-size: 50px;">Choose your best pricing plan</h1>
+                <p>Lorem ipsum dolor sit amet, ecte  adipiscing elit.Nulla scelerisque tellus interdum venenetis auctor et nibh.Rohncus a,sed lobortis nisi. </p>
+               
                 
-                    <p>Lorem ipsum dolor sit amet, ecte  adipiscing elit.Nulla scelerisque tellus interdum venenetis auctor et nibh.Rohncus a,sed lobortis nisi. </p>
                   
             </div>
             <div style="display:flex;justify-content: space-between;">
-            <div class="box4"></div>
-            <div class="box4"></div>
-            <div class="box4"></div>
+            <div class="box4">
+                <div style="margin-left: 10%;margin-top: 15%;margin-right: 10%;margin-bottom: 10%;">
+                    <img src="public/assets/Group 425.png" style="color :#C2ACE1">
+                    <p style="margin: 0;margin-left: 7%;width: 19vw;font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Blandit elit nunc donec elit laculis arcu.</p>
+                    <p style="margin: 0;margin-left: 7%;font-size: 16px;">Quis fe........</p>
+                    <div style="display:flex;margin-top: 10%;margin-bottom: 10%;">
+                    <img src="public/assets/Ellipse 20.png">
+                    <div style="    margin-left: 20px;">
+                        <p style="font-size:25px;    margin-bottom: 10px;">Wilson Bergson</p>
+                        <p style="margin:0;">Marketing manager</p>
+                    </div>
+                    
+
+                    </div>
+                </div>
+               
+            </div>
+            <div class="box4">
+                <div style="margin-left: 10%;margin-top: 15%;margin-right: 10%;margin-bottom: 10%;">
+                    <img src="public/assets/Group 425.png" style="color :#C2ACE1">
+                    <p style="margin: 0;margin-left: 7%;width: 19vw;font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Blandit elit nunc donec elit laculis arcu.</p>
+                    <p style="margin: 0;margin-left: 7%;font-size: 16px;">Quis fe........</p>
+                    <div style="display:flex;margin-top: 10%;margin-bottom: 10%;">
+                    <img src="public/assets/Ellipse 20 (1).png">
+                    <div style="    margin-left: 20px;">
+                        <p style="font-size:25px;    margin-bottom: 10px;">Zaire Aminoff</p>
+                        <p style="margin:0;">Marketing manager</p>
+                    </div>
+                    
+
+                    </div>
+                </div>
+            </div>
+            <div class="box4">
+                <div style="margin-left: 10%;margin-top: 15%;margin-right: 10%;margin-bottom: 10%;">
+                    <img src="public/assets/Group 425.png" style="color :#C2ACE1">
+                    <p style="margin: 0;margin-left: 7%;width: 19vw;font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Blandit elit nunc donec elit laculis arcu.</p>
+                    <p style="margin: 0;margin-left: 7%;font-size: 16px;">Quis fe........</p>
+                    <div style="display:flex;margin-top: 10%;margin-bottom: 10%;">
+                    <img src="public/assets/Ellipse 20 (2).png">
+                    <div style="    margin-left: 20px;">
+                        <p style="font-size:25px;    margin-bottom: 10px;">Ryan Press</p>
+                        <p style="margin:0;">Marketing manager</p>
+                    </div>
+                    
+
+                    </div>
+                </div>
+            </div>
+            </div>
+                <div style="    display: flex;justify-content: center; margin-top: 20px;">
+                    <img src="public/assets/Group 395.png">
+                </div>
+        </div>
+
+        <div class="content-6">
+            <div class="heading3">
+                <h1 style="font-size: 50px;">Latest insight news</h1>     
             </div>
 
+            <div style="display:flex;justify-content: space-between;">
+                <div class="box5">
+                    <img src="public/assets/Rectangle 33.png">
+                    <div style="display:flex;    justify-content: space-around;color: grey;">
+                        <p>Our Creative Team</p>
+                        <p>17th June, 2021</p>
+                        <p>by Stive Smithi</p>
+                    </div>
+                    <div style="width: 80%;margin-left: 30px;">
+                        <h5 style="font-size: 23px;    margin: 0;">Running remote offsites and onbordings</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Placerat fermentum, enim vel adipiscing non. Lacus ,nunc at et vel tellus dignissim quis.</p>
+                        <button style="background:#42B4EE;color:white;border: 0;padding: 10px;margin-bottom: 10px;">Continue</button>
+                    </div>
+                </div>
+                <div class="box5">
+                    <img src="public/assets/Rectangle 33 (1).png">
+                    <div style="display:flex;    justify-content: space-around;color: grey;">
+                        <p>Our Creative Team</p>
+                        <p>17th June, 2021</p>
+                        <p>by Stive Smithi</p>
+                    </div>
+                    <div style="width: 80%;margin-left: 30px;">
+                        <h5 style="font-size: 23px;    margin: 0;">A new look and new ways to collaborate</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Placerat fermentum, enim vel adipiscing non. Lacus ,nunc at et vel tellus dignissim quis.</p>
+                        <button style="background:#42B4EE;color:white;border: 0;padding: 10px;margin-bottom: 10px;">Continue</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="content-7">
+            <div class="box">
+                <div style="width: 26%;">
+                    <img src="public/assets/Group 369.png">
+                    <p style="color:grey;line-height: 25px;">Lorem ipsum dolor sit amet, consect etur adipiscing elit.
+                    Ullamcorper purus eleifend purus faucibus faucibus.
+                     </p>
+                    <img src="public/assets/Group 361.png">
+                </div>
+                <div>
+                    <h1 style="color:white;">Resources</h1>
+                    <ul style="color:grey;; list-style-type: none;padding:0;line-height: 25px;">
+                        <li>Services</li>
+                        <li>Pricing</li>
+                        <li>Testimonials</li>
+                        <li>Blog</li>
+                    </ul>
+                </div>
+                <div>
+                    <h1 style="color:white;">Usefull Links</h1>
+                    <ul style="color:grey;; list-style-type: none;padding:0;line-height: 25px;">
+                        <li>Terms of Services</li>
+                        <li>Privacy Policy</li>
+                        <li>Cookie Policy</li>
+                        <li>Contact us</li>
+                    </ul>
+                </div>
+                <div>
+                    <h1 style="color:white;">Newsletter</h1>
+                    <p style="color:grey;    width: 66%;">Sign up and receive the latest  news via email.</p>  
+                    <div style="  border: 2px solid grey;display: flex;height: 30px;justify-content: space-between;align-items: center; width: 83%;">
+                    <p style="background:black;color:white;margin:0">Email Address</p>
+                    <p style="background:#42B4EE; color:white;margin:0">send</p>
+                </div>   
+                </div>
+            </div>
         </div>
     </div>
 </template>
@@ -233,8 +356,35 @@ heading1{
     width: 32%;
     display:flex;
     flex-direction: column;
-    text-align: center;
-    align-items: center;
+    
 
+}
+
+.content-6{
+    margin-left:10%;
+    margin-right:10%;
+    background:#F7F7F8;
+}
+
+.box5{
+   
+    background:white;
+    border-radius:20px;
+    width: 48%;
+    display:flex;
+    flex-direction: column;
+   
+}
+
+.content-7{
+   
+    background:black;
+}
+
+.box{
+    margin-left:10%;
+    margin-right:10%;
+    display:flex;
+    justify-content: space-between;
 }
 </style>
