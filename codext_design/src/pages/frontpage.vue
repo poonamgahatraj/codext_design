@@ -2,7 +2,7 @@
     <div class="container">
         <div class="content-2">
             <div class="box1">
-                <img src="public/assets/Group (3).png" style="    width: 100%;height: 100%;">
+                <img src="public/assets/Group (3).png" style="    width: 95%;height: 100%;">
             </div>
             <div class="box1">
                 <div style="margin-left: 10%;">
@@ -47,47 +47,64 @@
             <div style="display:flex;justify-content: space-between;">
             <div class="box2">
                 <div >  
+                    <div style="height: 100px; width: 100px;border-radius: 45%; display: flex;
+    justify-content: center; align-items: center; margin: auto; background: #FAEAEA; margin-bottom: 10%; margin-top: 10%;">
                         <img src="public/assets/Group 388.png" > 
+                    </div>
+                       
                 </div>
                 
                 <div style="background:#6023B6;">
                     <h3>Clean Code</h3>
                     <p>Lorem ipsum dolor sit amet, ecte  adipiscing elitlpsum </p>
-                    <img src="public/assets/Group 10.png">
+                    <img src="public/assets/Group 10.png" style="    margin-bottom: 10%;">
                 </div>
                
             </div>
             <div class="box2">
                 <div>
-                    <img src="public/assets/Group 392.png">
+                    <div style="height: 100px; width: 100px;border-radius: 45%; display: flex;
+    justify-content: center; align-items: center; margin: auto; background:#F9F2E8; margin-bottom: 10%; margin-top: 10%;">
+                        <img src="public/assets/Group 392.png">
+                    </div>
+                    
                 </div>
                 
                 <div>
                     <h3>Data Analytic</h3>
                     <p>Lorem ipsum dolor sit amet, ecte  adipiscing elitlpsum </p>
-                    <img src="public/assets/Group 10.png">
+                    <img src="public/assets/Group 10.png" style="    margin-bottom: 10%;">
                 </div>
             </div>
             <div class="box2">
                 <div>
-                    <img src="public/assets/Group 393.png">
+
+                    <div style="height: 100px; width: 100px;border-radius: 45%; display: flex;
+    justify-content: center; align-items: center; margin: auto; background: #E8F7F6; margin-bottom: 10%; margin-top: 10%;">
+                        <img src="public/assets/Group 393.png">
+                    </div>
+                    
                 </div>
                 
                 <div>
                     <h3>Fully Secured</h3>
                     <p>Lorem ipsum dolor sit amet, ecte  adipiscing elitlpsum </p>
-                    <img src="public/assets/Group 10.png">
+                    <img src="public/assets/Group 10.png" style="    margin-bottom: 10%;">
                 </div>
             </div>
             <div class="box2">
                 <div>
-                    <img src="public/assets/Group 394.png">
+                    <div style="height: 100px; width: 100px;border-radius: 45%; display: flex;
+    justify-content: center; align-items: center; margin: auto; background: #F5E8F7; margin-bottom: 10%; margin-top: 10%;">
+                        <img src="public/assets/Group 394.png">
+                    </div>
+                   
                 </div>
                 
                 <div>
                     <h3>24/7 Support </h3>
                     <p>Lorem ipsum dolor sit amet, ecte  adipiscing elitlpsum </p>
-                    <img src="public/assets/Group 10.png">
+                    <img src="public/assets/Group 10.png" style="    margin-bottom: 10%;">
                 </div>
             </div>
             </div>
@@ -139,7 +156,7 @@
         <div class="content-5">
             <div class="heading3">
                 <h1 style="font-size: 50px;">Choose your best pricing plan</h1>
-                <p>Lorem ipsum dolor sit amet, ecte  adipiscing elit.Nulla scelerisque tellus interdum venenetis auctor et nibh.Rohncus a,sed lobortis nisi. </p>
+                <p style="width:45%;    margin-bottom: 5%;">Lorem ipsum dolor sit amet, ecte  adipiscing elit.Nulla scelerisque tellus interdum venenetis auctor et nibh.Rohncus a,sed lobortis nisi. </p>
                
                 
                   
@@ -229,7 +246,7 @@
                     <div style="width: 80%;margin-left: 30px;">
                         <h5 style="font-size: 23px;    margin: 0;">A new look and new ways to collaborate</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Placerat fermentum, enim vel adipiscing non. Lacus ,nunc at et vel tellus dignissim quis.</p>
-                        <button style="background:#42B4EE;color:white;border: 0;padding: 10px;margin-bottom: 10px;">Continue</button>
+                        <button style="background:#42B4EE;color:white;border: 0;padding: 10px;margin-bottom: 5%;">Continue</button>
                     </div>
                 </div>
             </div>
@@ -239,14 +256,14 @@
         <div class="content-7">
             <div class="box">
                 
-                <div style="width: 26%;    margin-top: 20px;">
+                <div style="width: 26%;    margin-top: 7%;">
                     <img src="public/assets/Group 369.png">
                     <p style="color:grey;line-height: 25px;width: 90%;">Lorem ipsum dolor sit amet, consect etur adipiscing elit.
                     Ullamcorper purus eleifend purus faucibus faucibus.
                      </p>
                     <img src="public/assets/Group 361.png">
                 </div>
-                <div>
+                <div style="margin-top:5%;">
                     <h1 style="color:white;">Resources</h1>
                     <ul style="color:grey;; list-style-type: none;padding:0;line-height: 25px;">
                         <li>Services</li>
@@ -255,7 +272,7 @@
                         <li>Blog</li>
                     </ul>
                 </div>
-                <div>
+                <div style="margin-top:5%;">
                     <h1 style="color:white;">Usefull Links</h1>
                     <ul style="color:grey;; list-style-type: none;padding:0;line-height: 25px;">
                         <li>Terms of Services</li>
@@ -264,16 +281,17 @@
                         <li>Contact us</li>
                     </ul>
                 </div>
-                <div>
+                <div style="margin-top:5%;">
                     <h1 style="color:white;">Newsletter</h1>
                     <p style="color:grey;    width: 66%;">Sign up and receive the latest  news via email.</p>  
                     <div style="  border: 2px solid grey;display: flex;height: 30px;justify-content: space-between;align-items: center; width: 83%;">
                     <p style="background:black;color:white;margin:0">Email Address</p>
-                    <p style="background:#42B4EE; color:white;margin:0">send</p>
+                    <p style="background:#42B4EE; color:white;margin:0;height: 30px;
+    width: 50px;display: flex;justify-content: center;align-items: center;">send</p>
                 </div>   
                 </div>
             </div>
-            <div style="border:1px solid grey;"></div>
+            <div style="border:1px solid grey;margin-top: 5%;"></div>
             <div style="display:flex;justify-content: center;">
                 <p style="color:grey;">Copyright 2021 The Codext All Rights Reserved.</p>
             </div>
@@ -334,6 +352,7 @@ heading1{
     flex-direction: column;
     justify-content: center;
    text-align: center;
+   align-items: center;
 }
 
 .box3{
@@ -372,7 +391,7 @@ heading1{
 }
 
 .box5{
-   
+   border:1px solid #D7D9D9;
     background:white;
     border-radius:20px;
     width: 48%;
@@ -384,6 +403,7 @@ heading1{
 .content-7{
    
     background:black;
+    margin-top: 10%;
 }
 
 .box{
