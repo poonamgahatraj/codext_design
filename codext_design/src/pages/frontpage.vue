@@ -238,9 +238,10 @@
 
         <div class="content-7">
             <div class="box">
-                <div style="width: 26%;">
+                
+                <div style="width: 26%;    margin-top: 20px;">
                     <img src="public/assets/Group 369.png">
-                    <p style="color:grey;line-height: 25px;">Lorem ipsum dolor sit amet, consect etur adipiscing elit.
+                    <p style="color:grey;line-height: 25px;width: 90%;">Lorem ipsum dolor sit amet, consect etur adipiscing elit.
                     Ullamcorper purus eleifend purus faucibus faucibus.
                      </p>
                     <img src="public/assets/Group 361.png">
@@ -271,6 +272,10 @@
                     <p style="background:#42B4EE; color:white;margin:0">send</p>
                 </div>   
                 </div>
+            </div>
+            <div style="border:1px solid grey;"></div>
+            <div style="display:flex;justify-content: center;">
+                <p style="color:grey;">Copyright 2021 The Codext All Rights Reserved.</p>
             </div>
         </div>
     </div>
