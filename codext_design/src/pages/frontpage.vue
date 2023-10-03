@@ -284,10 +284,10 @@
                 <div style="margin-top:5%;">
                     <h1 style="color:white;">Newsletter</h1>
                     <p style="color:grey;    width: 66%;">Sign up and receive the latest  news via email.</p>  
-                    <div style="  border: 2px solid grey;display: flex;height: 30px;justify-content: space-between;align-items: center; width: 83%;">
+                    <div style="  border: 1px solid grey;display: flex;height: 30px;justify-content: space-between;align-items: center; width: 83%;">
                     <p style="background:black;color:white;margin:0">Email Address</p>
                     <p style="background:#42B4EE; color:white;margin:0;height: 30px;
-    width: 50px;display: flex;justify-content: center;align-items: center;">send</p>
+    width: 50px;display: flex;justify-content: center;align-items: center;">Send</p>
                 </div>   
                 </div>
             </div>
@@ -297,9 +297,25 @@
             </div>
         </div>
     </div>
+
+    <bestfeature/>
 </template>
 
+<script >
+import bestfeature from '../components/bestfeature.vue'
+
+
+export default{
+components:{bestfeature}
+}
+    
+</script>
+
 <style scoped>
+
+.container{
+    background:#F7F7F8;
+}
 .content-2{
     display:flex;
     margin-left:10%;
