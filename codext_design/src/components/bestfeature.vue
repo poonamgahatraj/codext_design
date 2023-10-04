@@ -1,7 +1,8 @@
 <template>
 <div style="background: #FFF;">
     <div class="headingg">
-        <h1>We Provides best Feature for customar</h1>
+        <h1 style="width: 46%;
+    line-height: 50px;font-size: 45px;">We Provides best Feature for customar</h1>
     </div>
     <div class="content">
         <div class="box">
@@ -9,10 +10,11 @@
                 <img src="public/assets/Group 411.png">
             </div>
             <div class="content1">
+                
                 <h5>Clean Code</h5>
-                <p>Lorem ipsum dolor sit amet ecte adipiscing elitIpsum.</p>
+                <p class="p">Lorem ipsum dolor sit amet ecte adipiscing elitIpsum.</p>
                 <img src="public/assets/Group 10.png">
-            </div>
+            </div>   
         </div>
 
 
@@ -21,8 +23,8 @@
                 <img src="public/assets/Group 412.png">
             </div>
             <div class="content1">
-                <h5>Clean Code</h5>
-                <p>Lorem ipsum dolor sit amet ecte adipiscing elitIpsum.</p>
+                <h5>Data Analytic</h5>
+                <p class="p">Lorem ipsum dolor sit amet ecte adipiscing elitIpsum.</p>
                 <img src="public/assets/Group 10.png">
             </div>
         </div>
@@ -31,8 +33,8 @@
                 <img src="public/assets/Group 413.png">
             </div>
             <div class="content1">
-                <h5>Clean Code</h5>
-                <p>Lorem ipsum dolor sit amet ecte adipiscing elitIpsum.</p>
+                <h5>Fully Secured</h5>
+                <p class="p">Lorem ipsum dolor sit amet ecte adipiscing elitIpsum.</p>
                 <img src="public/assets/Group 10.png">
             </div>
         </div>
@@ -41,8 +43,8 @@
                 <img src="public/assets/Group 414.png">
             </div>
             <div class="content1">
-                <h5>Clean Code</h5>
-                <p>Lorem ipsum dolor sit amet ecte adipiscing elitIpsum.</p>
+                <h5>24/7 Support</h5>
+                <p class="p">Lorem ipsum dolor sit amet ecte adipiscing elitIpsum.</p>
                 <img src="public/assets/Group 10.png">
             </div>
         </div>
@@ -56,11 +58,11 @@
 
 .content{
     display:flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .box{
-width: 263px;
-height: 450px;
+width: 250px;
+
 flex-shrink: 0;
 
 border-radius: 10px;
@@ -83,12 +85,13 @@ font-family: Inter;
 font-size: 25px;
 font-style: normal;
 font-weight: 500;
-line-height: 150%; /* 37.5px */
+line-height:100% /* 37.5px */
 }
 
 .img{
     display: flex;
     justify-content: center;
+    margin-top:15%;
 }
 
 .headingg{
@@ -99,5 +102,12 @@ font-size: 44px;
 font-style: normal;
 font-weight: 600;
 line-height: 130%;
+display: flex;
+justify-content: center;
+}
+
+.p{
+    color:grey;
+    font-size: 16px;
 }
 </style>

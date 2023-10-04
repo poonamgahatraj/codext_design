@@ -1,5 +1,8 @@
 <template>
     <div class="container">
+        <div class="content-1">
+            <navbar/>
+        </div>
         <div class="content-2">
             <div class="box1">
                 <img src="public/assets/Group (3).png" style="    width: 95%;height: 100%;">
@@ -40,74 +43,7 @@
         </div>
 
         <div class="content-3">
-            <div class="heading2">
-                <h1 style="font-size: 50px;    width: 53%;">We Provides best Feature for customer</h1>
-            </div>
-
-            <div style="display:flex;justify-content: space-between;">
-            <div class="box2">
-                <div >  
-                    <div style="height: 100px; width: 100px;border-radius: 45%; display: flex;
-    justify-content: center; align-items: center; margin: auto; background: #FAEAEA; margin-bottom: 10%; margin-top: 10%;">
-                        <img src="public/assets/Group 388.png" > 
-                    </div>
-                       
-                </div>
-                
-                <div style="background:#6023B6;">
-                    <h3>Clean Code</h3>
-                    <p>Lorem ipsum dolor sit amet, ecte  adipiscing elitlpsum </p>
-                    <img src="public/assets/Group 10.png" style="    margin-bottom: 10%;">
-                </div>
-               
-            </div>
-            <div class="box2">
-                <div>
-                    <div style="height: 100px; width: 100px;border-radius: 45%; display: flex;
-    justify-content: center; align-items: center; margin: auto; background:#F9F2E8; margin-bottom: 10%; margin-top: 10%;">
-                        <img src="public/assets/Group 392.png">
-                    </div>
-                    
-                </div>
-                
-                <div>
-                    <h3>Data Analytic</h3>
-                    <p>Lorem ipsum dolor sit amet, ecte  adipiscing elitlpsum </p>
-                    <img src="public/assets/Group 10.png" style="    margin-bottom: 10%;">
-                </div>
-            </div>
-            <div class="box2">
-                <div>
-
-                    <div style="height: 100px; width: 100px;border-radius: 45%; display: flex;
-    justify-content: center; align-items: center; margin: auto; background: #E8F7F6; margin-bottom: 10%; margin-top: 10%;">
-                        <img src="public/assets/Group 393.png">
-                    </div>
-                    
-                </div>
-                
-                <div>
-                    <h3>Fully Secured</h3>
-                    <p>Lorem ipsum dolor sit amet, ecte  adipiscing elitlpsum </p>
-                    <img src="public/assets/Group 10.png" style="    margin-bottom: 10%;">
-                </div>
-            </div>
-            <div class="box2">
-                <div>
-                    <div style="height: 100px; width: 100px;border-radius: 45%; display: flex;
-    justify-content: center; align-items: center; margin: auto; background: #F5E8F7; margin-bottom: 10%; margin-top: 10%;">
-                        <img src="public/assets/Group 394.png">
-                    </div>
-                   
-                </div>
-                
-                <div>
-                    <h3>24/7 Support </h3>
-                    <p>Lorem ipsum dolor sit amet, ecte  adipiscing elitlpsum </p>
-                    <img src="public/assets/Group 10.png" style="    margin-bottom: 10%;">
-                </div>
-            </div>
-            </div>
+            <bestfeature/>
             
         </div>
 
@@ -298,15 +234,16 @@
         </div>
     </div>
 
-    <bestfeature/>
+    
 </template>
 
 <script >
 import bestfeature from '../components/bestfeature.vue'
-
+import navbar from '../components/navbar.vue'
 
 export default{
-components:{bestfeature}
+components:{bestfeature,navbar}
+
 }
     
 </script>
@@ -315,6 +252,12 @@ components:{bestfeature}
 
 .container{
     background:#F7F7F8;
+}
+
+.content-1{
+    
+    margin-left:10%;
+    margin-right:10%;
 }
 .content-2{
     display:flex;
