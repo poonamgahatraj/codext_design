@@ -2,6 +2,31 @@
     <div class="container">
         <div class="content-1">
             <navbar/>
+            <div style="display: flex;">
+                <div class="boxx">
+                    <h1 style="width: 325px;
+font-family: Inter;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; color:white;">
+                        Codext one of the best system in SAAS.
+                    </h1>
+                    <p style="
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;width: 370px; color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. A nulla nulla etiam turpis quam diam et. 
+Arcu nisi, sed aenean sit nisl.</p>
+
+                    <button style="color:white;border:none;
+border-radius: 5px;
+background: var(--Primary, #42B4EE);padding:10px;
+">Try A Live Demo</button>
+                </div>
+                <div class="boxx"></div>
+            </div>
         </div>
         <div class="content-2">
             <div class="box1">
@@ -258,7 +283,14 @@ components:{bestfeature,navbar}
     
     margin-left:10%;
     margin-right:10%;
+    background:linear-gradient(251deg, #461096 0.57%, #7F3CE0 99.97%);padding:10px;
 }
+
+.boxx{
+   
+   width:50%;
+}
+
 .content-2{
     display:flex;
     margin-left:10%;
